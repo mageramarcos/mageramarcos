@@ -19,4 +19,4 @@ Estou me formando como desenvolvedor Back-End Pela Cubos Academy, acumulando exp
 
 
 ###  ❤️Amo aprender novas tecnologias e aplicar em meus projetos.
-### 👩‍💻 Atualmente Estudo Desenvolvimento Back-End.
+### 👩‍💻 Atualmente Trabalho e Estudo Desenvolvimento Back-End.
